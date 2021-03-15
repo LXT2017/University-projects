@@ -1,7 +1,7 @@
 # University-projects
-大学期间简单的课设项目:smirk:
+大学期间简单的课设项目:smirk:，傻瓜式Git&GitHub入门手册非原创
 
-其中包括
+项目包括
 
 - [x] C语言的餐厅点餐系统
 - [x] java的坦克大战
